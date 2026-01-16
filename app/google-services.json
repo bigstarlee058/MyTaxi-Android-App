@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138235354234",
+    "project_id": "mytaxi-25a9f",
+    "storage_bucket": "mytaxi-25a9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138235354234:android:b04172984c2e6ae3b9efc3",
+        "android_client_info": {
+          "package_name": "com.piyush.mytaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI9lZXVbTn0_R1DYo00X4hgBCxPaHIwF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
