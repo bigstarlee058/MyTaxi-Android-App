@@ -173,6 +173,11 @@ service cloud.firestore {
 - Push notifications
 
 ---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+---
 👨‍💻 Author
 
 Piyush Kumar
