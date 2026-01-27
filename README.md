@@ -20,6 +20,11 @@
 **MyTaxi** is a modern, real-time taxi booking Android application built using **100% Kotlin** and **Jetpack Compose**.  
 The project follows **Clean Architecture** and **MVVM**, demonstrating **production-ready Android development** practices.
 
+🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/MyTaxi-Android-App.git)
+
+<!--📦 APK: [Link]()-->
+
+
 ---
 
 ## ✨ Key Highlights
