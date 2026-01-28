@@ -22,7 +22,7 @@ The project follows **Clean Architecture** and **MVVM**, demonstrating **product
 
 🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/MyTaxi-Android-App.git)
 
-<!--📦 APK: [Link]()-->
+📦 APK: [Link](https://github.com/mr-piyushkr/MyTaxi-Android-App/releases/tag/v1.0.0)
 
 
 ---
